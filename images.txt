@@ -1,2 +1,2 @@
-snowdreamtech/frpc
+snowdreamtech/frpc:0.58.1
 hello-world
